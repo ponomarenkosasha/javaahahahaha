@@ -1,0 +1,14 @@
+{
+  "homeTeam": "Team A",
+  "awayTeam": "Team B",
+  "date": "2025-05-30T20:46:37.785Z",
+  "events": [
+    {
+      "description": "Foul",
+      "minute": 12,
+      "referee": {
+        "id": 1
+      }
+    }
+  ]
+}
